@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ScrollView
+            android:id="@+id/demo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:gravity="center_horizontal"
+                android:layout_height="match_parent">
+
+            <Button
+                    android:text="Button"
+                    android:layout_marginTop="10dp"
+                    android:layout_width="200dp"
+                    android:layout_height="50dp"/>
+
+            <EditText
+                    android:hint="EditText"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_width="200dp"
+                    android:layout_height="50dp"/>
+
+            <RadioGroup
+                    style="@android:style/Widget.Material.CompoundButton.RadioButton"
+                    android:layout_marginTop="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                <RadioButton
+                        android:text="RadioButton1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+
+                <RadioButton
+                        android:text="RadioButton2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+            </RadioGroup>
+
+            <LinearLayout
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                <CheckBox
+                        android:text="CheckBox"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+
+                <Switch
+                        android:layout_marginLeft="10dp"
+                        android:text="Switch"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+
+                <ToggleButton
+                        android:layout_marginLeft="10dp"
+                        android:text="ToggleButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+            </LinearLayout>
+
+            <LinearLayout
+                    android:layout_marginTop="10dp"
+                    android:orientation="vertical"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content">
+
+                <ProgressBar
+                        android:layout_marginTop="10dp"
+                        style="@android:style/Widget.Material.ProgressBar.Horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:max="100"
+                        android:progress="50"/>
+
+                <ProgressBar
+                        android:layout_marginTop="10dp"
+                        style="@android:style/Widget.Material.ProgressBar.Horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:indeterminate="true"/>
+
+                <SeekBar
+                        android:layout_marginTop="10dp"
+                        android:max="100"
+                        android:progress="50"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"/>
+
+                <LinearLayout
+                        android:layout_marginTop="10dp"
+                        android:layout_gravity="center_horizontal"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                    <ProgressBar
+                            style="@android:style/Widget.Material.ProgressBar.Small"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:max="100"
+                            android:progress="50"/>
+
+                    <ProgressBar
+                            android:layout_marginLeft="10dp"
+                            style="@android:style/Widget.Material.ProgressBar"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:max="100"
+                            android:progress="50"/>
+
+                    <ProgressBar
+                            android:layout_marginLeft="10dp"
+                            style="@android:style/Widget.Material.ProgressBar.Large"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:max="100"
+                            android:progress="50"/>
+                </LinearLayout>
+            </LinearLayout>
+
+            <RatingBar
+                    style="@android:style/Widget.Material.RatingBar"
+                    android:layout_marginTop="10dp"
+                    android:rating="2.5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            <Spinner
+                    android:id="@+id/spinner"
+                    android:layout_marginTop="10dp"
+                    style="@android:style/Widget.Material.Spinner.Underlined"
+                    android:layout_width="200dp"
+                    android:layout_height="50dp"></Spinner>
+
+            <Chronometer
+                    android:layout_marginTop="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            <DatePicker
+                    android:layout_marginTop="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            <TimePicker
+                    android:layout_marginTop="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </ScrollView>
+
+    <WebView
+            android:id="@+id/web"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+</FrameLayout>
