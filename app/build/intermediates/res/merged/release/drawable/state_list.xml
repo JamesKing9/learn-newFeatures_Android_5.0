@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/pressed" android:drawable="@drawable/btn_check_15" android:state_pressed="true"/>
+    <item android:id="@+id/normal"  android:drawable="@drawable/btn_check_0"/>
+    <transition android:fromId="@+id/normal" android:toId="@+id/pressed">
+        <animation-list>
+            <item android:duration="20" android:drawable="@drawable/btn_check_0"/>
+            <item android:duration="20" android:drawable="@drawable/btn_check_1"/>
+            <item android:duration="20" android:drawable="@drawable/btn_check_2"/>
+            <item android:duration="20" android:drawable="@drawable/btn_check_3"/>
+            <item android:duration="20" android:drawable="@drawable/btn_check_4"/>
+            <item android:duration="20" android:drawable="@drawable/btn_check_5"/>
+            <item android:duration="20" android:drawable="@drawable/btn_check_6"/>
+            <item android:duration="20" android:drawable="@drawable/btn_check_7"/>
+            <item android:duration="20" android:drawable="@drawable/btn_check_8"/>
+            <item android:duration="20" android:drawable="@drawable/btn_check_9"/>
+            <item android:duration="20" android:drawable="@drawable/btn_check_10"/>
+            <item android:duration="20" android:drawable="@drawable/btn_check_12"/>
+            <item android:duration="20" android:drawable="@drawable/btn_check_13"/>
+            <item android:duration="20" android:drawable="@drawable/btn_check_14"/>
+            <item android:duration="20" android:drawable="@drawable/btn_check_15"/>
+        </animation-list>
+    </transition>
+</animated-selector>

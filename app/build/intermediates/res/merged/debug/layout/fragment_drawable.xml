@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+
+    <ScrollView
+            android:id="@+id/demo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fillViewport="true">
+
+        <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#ffffff"
+                >
+
+            <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:gravity="center"
+                    android:layout_height="wrap_content">
+
+                <TextView
+                        android:layout_marginTop="20dp"
+                        android:layout_marginBottom="20dp"
+                        android:layout_marginRight="20dp"
+                        android:gravity="center"
+                        android:text="原图"
+                        android:textColor="#88000000"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:background="@drawable/ring"/>
+
+                <TextView
+                        android:clickable="true"
+                        android:layout_marginTop="20dp"
+                        android:layout_marginBottom="20dp"
+                        android:layout_marginLeft="20dp"
+                        android:gravity="center"
+                        android:text="tint选择器"
+                        android:textColor="#88000000"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:background="@drawable/tint_selector"/>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                    android:orientation="horizontal"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                <TextView
+                        android:layout_marginTop="20dp"
+                        android:layout_marginBottom="20dp"
+                        android:gravity="center"
+                        android:text="add"
+                        android:textColor="#88000000"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:background="@drawable/ring"
+                        android:backgroundTint="#5677fc"
+                        android:backgroundTintMode="add"/>
+
+
+                <TextView
+                        android:layout_marginTop="20dp"
+                        android:layout_marginBottom="20dp"
+                        android:layout_marginLeft="20dp"
+                        android:gravity="center"
+                        android:text="multiply"
+                        android:textColor="#88000000"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:backgroundTint="#5677fc"
+                        android:backgroundTintMode="multiply"
+                        android:background="@drawable/ring"/>
+
+                <TextView
+                        android:layout_marginTop="20dp"
+                        android:layout_marginBottom="20dp"
+                        android:layout_marginLeft="20dp"
+                        android:gravity="center"
+                        android:text="screen"
+                        android:textColor="#88000000"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:backgroundTint="#5677fc"
+                        android:backgroundTintMode="screen"
+                        android:background="@drawable/ring"/>
+
+
+                    </LinearLayout>
+
+            <LinearLayout
+                    android:orientation="horizontal"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                <TextView
+                        android:layout_marginTop="20dp"
+                        android:layout_marginBottom="20dp"
+                        android:gravity="center"
+                        android:text="src_atop"
+                        android:textColor="#88000000"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:backgroundTint="#5677fc"
+                        android:backgroundTintMode="src_atop"
+                        android:background="@drawable/ring"/>
+
+
+                <TextView
+                        android:layout_marginTop="20dp"
+                        android:layout_marginBottom="20dp"
+                        android:layout_marginLeft="20dp"
+                        android:gravity="center"
+                        android:text="src_in"
+                        android:textColor="#88000000"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:backgroundTint="#5677fc"
+                        android:backgroundTintMode="src_in"
+                        android:background="@drawable/ring"/>
+
+                <TextView
+                        android:layout_marginTop="20dp"
+                        android:layout_marginBottom="20dp"
+                        android:layout_marginLeft="20dp"
+                        android:gravity="center"
+                        android:text="src_over"
+                        android:textColor="#88000000"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:backgroundTint="#5677fc"
+                        android:backgroundTintMode="src_over"
+                        android:background="@drawable/ring"/>
+
+
+            </LinearLayout>
+
+            <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#55000000"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"/>
+
+            <ImageView
+                    android:id="@+id/im"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+
+            <LinearLayout
+                    android:layout_marginTop="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp">
+
+                <TextView
+                        android:id="@+id/v"
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="Vibrant"
+                        />
+
+                <TextView
+                        android:id="@+id/vd"
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="Vibrant dark"
+                        />
+
+                <TextView
+                        android:id="@+id/vl"
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="Vibrant light"
+                        />
+
+                <TextView
+                        android:id="@+id/m"
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="Muted"
+                        />
+
+                <TextView
+                        android:id="@+id/md"
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="Muted dark"
+                        />
+
+                <TextView
+                        android:id="@+id/ml"
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="Muted light"
+                        />
+
+            </LinearLayout>
+
+            <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#55000000"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"/>
+
+        <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:gravity="center"
+                android:layout_height="wrap_content">
+
+            <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:background="@drawable/heart"
+                    />
+
+            <ImageView
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:background="@drawable/heart"
+                    />
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <WebView
+            android:id="@+id/web"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+</FrameLayout>

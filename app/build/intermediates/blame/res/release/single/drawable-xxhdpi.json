@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\drawer_shadow.9.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-xxhdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_drawer.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

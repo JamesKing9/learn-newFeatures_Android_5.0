@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+
+    <ScrollView
+            android:id="@+id/demo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fillViewport="true">
+
+        <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#ffffff"
+                >
+
+            <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:gravity="center"
+                    android:layout_height="wrap_content">
+
+                <Button
+                        android:layout_marginTop="80dp"
+                        android:layout_marginRight="80dp"
+                        android:layout_marginLeft="80dp"
+                        android:gravity="center"
+                        android:text="默认"
+                        android:textColor="#88000000"
+                        android:layout_width="fill_parent"
+                        android:layout_height="100dp"/>
+
+                <Button
+                        android:layout_marginTop="80dp"
+                        android:layout_marginRight="80dp"
+                        android:layout_marginLeft="80dp"
+                        android:gravity="center"
+                        android:text="selectableItemBackground"
+                        android:textColor="#88000000"
+                        android:layout_width="fill_parent"
+                        android:layout_height="100dp"
+                        android:background="?android:attr/selectableItemBackground"/>
+
+                <Button
+                        android:layout_marginTop="80dp"
+                        android:layout_marginBottom="80dp"
+                        android:layout_marginRight="80dp"
+                        android:layout_marginLeft="80dp"
+                        android:gravity="center"
+                        android:text="selectableItemBackgroundBorderless"
+                        android:textColor="#88000000"
+                        android:layout_width="fill_parent"
+                        android:layout_height="100dp"
+                        android:background="?android:attr/selectableItemBackgroundBorderless"/>
+
+            </LinearLayout>
+
+            <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#55000000"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"/>
+
+            <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:gravity="center"
+                    android:layout_height="wrap_content">
+
+                <Button
+                        android:id="@+id/bt1"
+                        android:layout_marginTop="80dp"
+                        android:gravity="center"
+                        android:text="圆形缩小动画"
+                        android:textColor="#88000000"
+                        android:background="@drawable/circle_shape"
+                        android:layout_width="200dp"
+                        android:layout_height="200dp"/>
+
+                <Button
+                        android:id="@+id/bt2"
+                        android:layout_marginTop="80dp"
+                        android:layout_marginRight="80dp"
+                        android:layout_marginLeft="80dp"
+                        android:gravity="center"
+                        android:text="圆形放大动画"
+                        android:textColor="#88000000"
+                        android:background="#00b8d4"
+                        android:layout_width="200dp"
+                        android:layout_height="200dp"/>
+
+
+            </LinearLayout>
+
+            <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#55000000"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"/>
+
+            <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:gravity="center"
+                    android:layout_height="300dp">
+
+                <TextView
+                android:id="@+id/curved"
+                android:gravity="center"
+                android:text="曲线动画"
+                android:textColor="#88000000"
+                android:background="@drawable/circle_shape"
+                android:layout_width="20dp"
+                android:layout_height="20dp"/>
+
+            </LinearLayout>
+
+            <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#55000000"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"/>
+
+            <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:gravity="center"
+                    android:layout_height="wrap_content">
+
+                <TextView
+                        android:id="@+id/state_anim"
+                        android:gravity="center"
+                        android:layout_marginTop="50dp"
+                        android:layout_marginBottom="50dp"
+                        android:text="状态动画"
+                        android:textColor="#88000000"
+                        android:stateListAnimator="@drawable/state_anim"
+                        android:background="@drawable/state_anim"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"/>
+
+                <Button
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/state_list"
+                        />
+
+                <Button
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/rainbow_list"
+                        />
+
+            </LinearLayout>
+            <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#55000000"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"/>
+
+            <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:gravity="center"
+                    android:layout_height="wrap_content">
+                <TextView
+                        android:id="@+id/vector_anim"
+                        android:layout_width="200dp"
+                        android:layout_height="200dp"
+                        android:gravity="center"
+                        android:text="矢量图动画"
+                        android:textColor="#88000000"
+                        android:background="@drawable/vector_animation"
+                        />
+            </LinearLayout>
+
+            <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#55000000"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"/>
+
+            <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:gravity="center"
+                    android:layout_height="wrap_content">
+
+                <Button
+                        android:id="@+id/transitions"
+                        android:layout_marginTop="80dp"
+                        android:layout_marginRight="80dp"
+                        android:layout_marginLeft="80dp"
+                        android:layout_marginBottom="80dp"
+                        android:gravity="center"
+                        android:text="转场动画"
+                        android:textColor="#88000000"
+                        android:layout_width="fill_parent"
+                        android:layout_height="100dp"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <WebView
+            android:id="@+id/web"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+</FrameLayout>

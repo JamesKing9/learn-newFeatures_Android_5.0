@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/pressed" android:drawable="@drawable/rainbow7" android:state_pressed="true"/>
+    <item android:id="@+id/normal"  android:drawable="@drawable/rainbow1"/>
+    <transition android:fromId="@+id/normal" android:toId="@+id/pressed">
+        <animation-list>
+            <item android:duration="50" android:drawable="@drawable/rainbow1"/>
+            <item android:duration="50" android:drawable="@drawable/rainbow2"/>
+            <item android:duration="50" android:drawable="@drawable/rainbow3"/>
+            <item android:duration="50" android:drawable="@drawable/rainbow4"/>
+            <item android:duration="50" android:drawable="@drawable/rainbow5"/>
+            <item android:duration="50" android:drawable="@drawable/rainbow6"/>
+            <item android:duration="50" android:drawable="@drawable/rainbow7"/>
+        </animation-list>
+    </transition>
+</animated-selector>

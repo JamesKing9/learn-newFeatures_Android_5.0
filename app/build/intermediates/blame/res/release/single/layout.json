@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_transitions.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\layout\\activity_transitions.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_share.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\layout\\activity_share.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_support.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\layout\\fragment_support.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_drawable.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\layout\\fragment_drawable.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_shadow.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\layout\\fragment_shadow.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_animation.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\layout\\fragment_animation.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_drawer.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\layout\\fragment_drawer.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_item.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_widget.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\layout\\fragment_widget.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\widget_layout.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\layout\\widget_layout.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\staggered_grid_item_h.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\layout\\staggered_grid_item_h.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\grid_item.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_item_h.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\layout\\list_item_h.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_animation.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\layout\\activity_animation.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\staggered_grid_item.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\layout\\staggered_grid_item.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_style.xml",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\layout\\fragment_style.xml"
+    }
+]

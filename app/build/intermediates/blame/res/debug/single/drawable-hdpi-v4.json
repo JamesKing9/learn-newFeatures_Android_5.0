@@ -1,0 +1,662 @@
+[
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h2.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h2.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g3.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g3.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p33.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p33.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p16.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p16.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h17.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h17.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p17.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p17.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h27.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h27.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h37.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h37.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g17.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g17.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p5.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p5.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h8.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h8.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h14.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h14.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p7.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p7.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h12.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h12.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h32.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h32.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p32.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p32.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p4.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p4.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p35.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p35.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h5.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h5.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g18.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g18.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h35.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h35.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g2.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g2.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g20.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g20.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g5.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g5.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g15.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g15.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h25.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h25.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h41.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h41.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g14.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g14.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h31.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h31.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\palette.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\palette.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p22.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p22.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p27.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p27.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p21.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p21.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g7.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g7.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p44.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p44.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h7.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h7.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p28.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p28.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h24.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h24.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p15.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p15.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p12.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p12.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p18.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p18.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h42.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h42.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h19.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h19.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g21.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g21.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h6.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h6.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g4.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g4.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g1.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g1.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g24.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g24.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p9.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p9.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g27.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g27.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p6.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p6.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h30.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h30.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h36.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h36.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p3.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p3.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p37.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p37.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p34.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p34.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p31.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p31.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h33.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h33.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h23.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h23.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h43.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h43.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h13.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h13.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h9.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h9.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p25.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p25.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p41.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p41.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p11.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p11.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g9.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g9.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g11.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g11.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p24.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p24.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g25.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g25.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p10.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p10.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p39.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p39.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p40.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p40.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h29.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h29.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p43.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p43.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p1.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p1.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h1.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h1.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h26.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h26.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h40.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h40.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h20.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h20.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g8.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g8.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p38.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p38.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g26.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g26.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g12.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g12.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h38.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h38.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h18.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h18.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g23.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g23.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p30.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p30.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g6.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g6.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p36.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p36.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h15.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h15.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p19.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p19.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g29.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g29.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p14.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p14.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g22.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g22.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h11.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h11.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h21.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h21.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h4.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h4.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p13.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p13.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p2.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p2.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h44.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h44.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p8.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p8.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g28.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g28.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h34.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h34.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g10.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g10.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h39.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h39.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g16.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g16.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g13.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g13.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p29.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p29.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h22.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h22.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g19.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\g19.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h16.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h16.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p42.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p42.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h10.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h10.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h28.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h28.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p20.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p20.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p26.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p26.jpg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h3.jpeg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\h3.jpeg"
+    },
+    {
+        "merged": "H:\\Code\\As\\Course\\02_Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p23.jpg",
+        "source": "H:\\Code\\As\\Course\\02_Android5.0\\app\\src\\main\\res\\drawable-hdpi\\p23.jpg"
+    }
+]

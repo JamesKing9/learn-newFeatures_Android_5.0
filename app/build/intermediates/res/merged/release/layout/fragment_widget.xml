@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+
+    <ScrollView
+            android:id="@+id/demo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fillViewport="true">
+
+        <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:background="#ffffff">
+
+            <Button
+                android:id="@+id/bt1"
+                android:layout_margin="10dp"
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:text="纵向列表"
+                android:layout_weight="1"/>
+
+
+            <Button
+                android:id="@+id/bt2"
+                android:layout_margin="10dp"
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:text="横向列表"
+                android:layout_weight="1"/>
+
+            <Button
+                android:id="@+id/bt3"
+                android:layout_margin="10dp"
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:text="纵向九宫格"
+                android:layout_weight="1"/>
+
+            <Button
+                android:id="@+id/bt4"
+                android:layout_margin="10dp"
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:text="横向九宫格"
+                android:layout_weight="1"/>
+
+            <Button
+                android:id="@+id/bt5"
+                android:layout_margin="10dp"
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:text="纵向瀑布流"
+                android:layout_weight="1"/>
+
+            <Button
+                android:id="@+id/bt6"
+                android:layout_margin="10dp"
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:text="横向瀑布流"
+                android:layout_weight="1"/>
+        </LinearLayout>
+
+    </ScrollView>
+
+    <WebView
+            android:id="@+id/web"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+</FrameLayout>
